@@ -24,11 +24,11 @@ Premium August Lock-inspired smart lock card for Home Assistant Button Card. Fea
 
 8. Verify your entities match:
 
-  lock.front_door  
-  sensor.front_door_battery  
-  binary_sensor.front_door_door
+   lock.front_door
+   sensor.front_door_battery  
+   binary_sensor.front_door_door
 
-9. Save & Enjoy your Animated Premium August lock UI 😆
+10. Save & Enjoy your Animated Premium August lock UI 😆
 
 
 
